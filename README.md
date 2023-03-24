@@ -1,1 +1,1 @@
-# cook
+Repozitory for cook bot
